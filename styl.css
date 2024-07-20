@@ -1,0 +1,15 @@
+h2 {
+    color: red;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: blue;
+    border: 9px;
+}
+h3{
+color: brown;
+font-weight: 700;
+font-size: large;
+background: scroll;
+border: 9px;
+}
